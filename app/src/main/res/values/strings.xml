@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="hello_world_text">Hello World!👋</string>
+    <string name="signature_text">From Apex Group</string>
+</resources>
