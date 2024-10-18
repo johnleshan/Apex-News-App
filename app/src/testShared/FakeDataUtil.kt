@@ -1,9 +1,9 @@
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
-import com.rafsan.newsapp.data.model.NewsArticle
-import com.rafsan.newsapp.data.model.NewsResponse
-import com.rafsan.newsapp.data.model.Source
-import com.rafsan.newsapp.state.NetworkState
+import com.apex.newsapp.data.model.NewsArticle
+import com.apex.newsapp.data.model.NewsResponse
+import com.apex.newsapp.data.model.Source
+import com.apex.newsapp.state.NetworkState
 
 object FakeDataUtil {
     fun getFakeNewsArticleResponse(): NetworkState<NewsResponse> {

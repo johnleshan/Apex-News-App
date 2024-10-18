@@ -15,7 +15,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.rafsan.newsapp"
+        applicationId = "com.apex.newsapp"
         minSdk = Deps.Versions.min_sdk
         targetSdk = Deps.Versions.target_sdk
         versionCode = Deps.Versions.app_version_code
@@ -37,10 +37,10 @@ android {
     flavorDimensions("default")
     productFlavors {
         create("prod") {
-            applicationId = "com.rafsan.newsapp"
+            applicationId = "com.apex.newsapp"
         }
         create("dev") {
-            applicationId = "com.rafsan.newsapp.dev"
+            applicationId = "com.apex.newsapp.dev"
         }
     }
     buildTypes {

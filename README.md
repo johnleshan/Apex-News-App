@@ -94,11 +94,10 @@ The project uses [`Kotin-Dsl`](https://docs.gradle.org/current/userguide/kotlin_
 9. [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started) for supporting navigation through the app.
 10. [Glide](https://github.com/bumptech/glide) for image loading.
 11. [Swipe Refresh Layout](https://developer.android.com/jetpack/androidx/releases/swiperefreshlayout) for pull-to-refresh `RecyclerView`.
-12. [EndlessRecyclerOnScrollListener](https://gist.github.com/rafsanahmad/00214d0f2879884513f8e086754a22e7) for Recylerview Infinite Scroll.
-13. [Mockito](https://developer.android.com/training/testing/local-tests) & [Junit](https://developer.android.com/training/testing/local-tests) for Unit testing.
-14. [Robolectric](http://robolectric.org/) for Instrumentation testing.
-15. [Truth](https://truth.dev/) for Assertion in testing.
-16. [Espresso](https://developer.android.com/training/testing/espresso) for UI testing.
+12. [Mockito](https://developer.android.com/training/testing/local-tests) & [Junit](https://developer.android.com/training/testing/local-tests) for Unit testing.
+13. [Robolectric](http://robolectric.org/) for Instrumentation testing.
+14. [Truth](https://truth.dev/) for Assertion in testing.
+15. [Espresso](https://developer.android.com/training/testing/espresso) for UI testing.
 
 ## Testing
 
@@ -121,27 +120,3 @@ The test comprises of testing the functionality of Favorite News Room Database l
 ## Sample app
 
 ![](images/news_app.gif)
-
-## License
-
-```
-Copyright (c) 2021 Rafsan Ahmad
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```

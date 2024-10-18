@@ -1,4 +1,4 @@
-import com.rafsan.newsapp.di.CoroutinesDispatcherProvider
+import com.apex.newsapp.di.CoroutinesDispatcherProvider
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.test.*
